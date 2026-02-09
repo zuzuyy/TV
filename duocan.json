@@ -9,6 +9,6 @@
     { "name": "俊佬接口", "url": "http://home.jundie.top:81/top98.json" },
     { "name": "HG接口", "url": "https://api.hgyx.vip/hgyx.json" },
     { "name": "dxawi", "url": "https://dxawi.github.io/0/0.json" },
-    { "name": "潇洒接口", "url": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json" },
+    { "name": "潇洒接口", "url": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json" }
   ]
 }
