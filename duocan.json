@@ -10,6 +10,5 @@
     { "name": "HG接口", "url": "https://api.hgyx.vip/hgyx.json" },
     { "name": "dxawi", "url": "https://dxawi.github.io/0/0.json" },
     { "name": "潇洒接口", "url": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json" },
-    { "name": "小苹果接口", "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json" }
   ]
 }
