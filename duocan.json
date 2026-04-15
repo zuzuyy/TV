@@ -4,8 +4,8 @@
     { "name": "饭太硬接口", "url": "http://www.饭太硬.com/tv/" },
     { "name": "牛娃接口", "url": "https://9280.kstore.vip/newwex.json" },
     { "name": "神秘哥哥们备用接口", "url": "http://fty.xxooo.cf/tv/" },
-    { "name": "OK接口", "url": "http://ok213.top/tv" },
-    { "name": "动漫城接口", "url": "https://www.yingm.cc/dm/dm.json" },
+    { "name": "OK接口", "url": "http://ok521.top/tv" },
+    { "name": "小米", "url": "https://gitee.com/smallmi1007/mimi/raw/master/mi.json" },
     { "name": "潇洒接口", "url": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json" }
   ]
 }
