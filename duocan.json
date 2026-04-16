@@ -1,11 +1,11 @@
 {
   "urls": [
-    { "name": "肥猫接口", "url": "http://肥猫.com" },
-    { "name": "饭太硬接口", "url": "http://www.饭太硬.com/tv/" },
-    { "name": "牛娃接口", "url": "https://9280.kstore.vip/newwex.json" },
-    { "name": "神秘哥哥们备用接口", "url": "http://fty.xxooo.cf/tv/" },
-    { "name": "OK接口", "url": "http://ok521.top/tv" },
+    { "name": "肥猫", "url": "http://肥猫.com" },
+    { "name": "饭太硬", "url": "http://www.饭太硬.com/tv/" },
+    { "name": "牛娃", "url": "https://9280.kstore.vip/newwex.json" },
+    { "name": "神秘哥哥们", "url": "http://fty.xxooo.cf/tv/" },
+    { "name": "OK", "url": "http://ok213.top/tv" },
     { "name": "小米", "url": "https://gitee.com/smallmi1007/mimi/raw/master/mi.json" },
-    { "name": "潇洒接口", "url": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json" }
+    { "name": "南风", "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json" }
   ]
 }
