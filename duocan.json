@@ -6,6 +6,8 @@
     { "name": "神秘哥哥们", "url": "http://fty.xxooo.cf/tv/" },
     { "name": "OK", "url": "http://ok213.top/tv" },
     { "name": "小米", "url": "https://gitee.com/smallmi1007/mimi/raw/master/mi.json" },
+    { "name": "keluo", "url": "https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/xin.json" },
+    { "name": "机缘", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/yang.json" },
     { "name": "南风", "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json" }
   ]
 }
