@@ -1,13 +1,16 @@
 {
   "urls": [
-    { "name": "肥猫", "url": "http://肥猫.com" },
-    { "name": "饭太硬", "url": "http://www.饭太硬.com/tv/" },
+    { "name": "猫影视", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/mao.json" },
+    { "name": "饭太硬", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/fan.json" },
     { "name": "牛娃", "url": "https://9280.kstore.vip/newwex.json" },
     { "name": "神秘哥哥们", "url": "http://fty.xxooo.cf/tv/" },
-    { "name": "OK", "url": "http://ok213.top/tv" },
-    { "name": "小米", "url": "https://gitee.com/smallmi1007/mimi/raw/master/mi.json" },
+    { "name": "OK", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/ok.json" },
+    { "name": "公益", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/xin.json" },
     { "name": "keluo", "url": "https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/xin.json" },
     { "name": "机缘", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/yang.json" },
-    { "name": "南风", "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json" }
+    { "name": "勇往", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/yw.json" },
+    { "name": "讴歌", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/oge.json" },
+    { "name": "摸鱼", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/moyu.json" },
+    { "name": "巧记", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/qiao.json" }
   ]
 }
